@@ -1,3 +1,4 @@
 test of text file
 Changes made on 04/11/2018
 By adil Madih
+bug fix 2 changes based on bug fix 
